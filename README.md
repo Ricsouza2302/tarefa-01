@@ -1,5 +1,6 @@
 <h1>Estruturas de Linguagens 2018.2</h1> 
 <h2>Tarefa-01</h2> 
-Teste<br/><strong>Texto</strong>
-<a href = "https://help.github.com/articles/basic-writing-and-formatting-syntax/">Teste Link</a>
+<ul>
+  <li>Atualmente cursando o 5º período de Ciência da Computação</li>
+</ul>
 
